@@ -1,0 +1,13 @@
+<html>
+    <head>
+        <link href="/static/style.css" rel="stylesheet">
+    </head>
+    <body>
+        <div class="pwned">
+            <img class="img-phishing" src="/static/phishing.jpg">
+            <h1>You've been phished</h1>
+            <p>login = {{ request.values.login }} / pass = {{ request.values.password }}</p>
+        </div>
+    </body>
+</html>
+
