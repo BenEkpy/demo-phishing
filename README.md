@@ -4,14 +4,12 @@
 
 Web application to simulate O365 phishing site using Python Flask.
 
-<img align="center" src="images/login.png" height="500">
+<img align="center" src="img/login.png" height="500">
 
-<img align="center" src="images/phishing.png" height="500">
+<img align="center" src="img/phishing.png" height="500">
 
 
-## Getting Started
-
-#### Using Docker 
+## Getting Started with Docker
 
 #### Container deployment 
 
