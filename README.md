@@ -4,7 +4,11 @@
 
 Web application to simulate O365 phishing site using Python Flask.
 
+The login page reuse some assets from the official login page of Microsoft Online (image, script, css, objects etc) :
+
 <img align="center" src="img/login.png" height="500">
+
+Once credentials submitted, they are shown into a small web page :
 
 <img align="center" src="img/phishing.png" height="500">
 
